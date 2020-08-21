@@ -1,0 +1,24 @@
+{
+  "name": "hackernewsapi",
+  "version": "1.0.0",
+  "description": "hackernews API clone built with graphql",
+  "main": "index.js",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olumidae/HackernewsAPI.git"
+  },
+  "author": "olumide omitiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olumidae/HackernewsAPI/issues"
+  },
+  "homepage": "https://github.com/olumidae/HackernewsAPI#readme"
+}
