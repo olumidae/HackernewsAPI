@@ -4,9 +4,12 @@
   "description": "hackernews API clone built with graphql",
   "main": "index.js",
   "dependencies": {
+    "@prisma/client": "^2.5.1",
     "graphql-yoga": "^1.18.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@prisma/cli": "^2.5.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./src/index.js"
