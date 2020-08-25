@@ -106,3 +106,4 @@ dist
 
 package-lock.json
 ql.txt
+./prisma/dev.db
